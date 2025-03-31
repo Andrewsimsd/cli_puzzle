@@ -57,12 +57,6 @@ For large mazes, try `Maze::new(100, 100)`.
 |--------|---------|----------------------------------|
 | `rand` | ^0.8    | Random number generation         |
 
-Add them to your `Cargo.toml` like this:
-
-```toml
-[dependencies]
-rand = \"0.8\"
-```
 
 ---
 
