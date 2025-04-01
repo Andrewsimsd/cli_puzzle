@@ -1,5 +1,4 @@
 use rand::seq::SliceRandom;
-use rand::rng;
 use std::collections::HashSet;
 use std::collections::VecDeque;
 use std::env;
